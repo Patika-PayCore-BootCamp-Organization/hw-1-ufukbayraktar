@@ -1,5 +1,4 @@
 # hw-1-ufukbayraktar
-hw-1-ufukbayraktar created by GitHub Classroom
 
 <br>HW#1
 <br>1 – Why we need to use OOP ? Some major OOP languages ?
